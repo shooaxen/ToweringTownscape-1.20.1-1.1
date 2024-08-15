@@ -1,0 +1,14 @@
+{
+  "icon":"towering_townscape.png",
+  "name":"Towering Townscape",
+  "authors":[
+    "ShooAxen"
+  ],
+  "desc":"[Intermidiate] Modular megastructure stylepack for Minecolonies. A pack that require tons of resources especially breaking down the ocean monument to progress to upper level.",
+  "mods":[
+    "structurize",
+    "minecolonies"
+  ],
+  "version":"1.3",
+  "pack-format":"1"
+}
